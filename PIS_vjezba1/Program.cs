@@ -14,4 +14,6 @@ namespace PIS_vjezba1
             Console.WriteLine("Linija koju dodaje kolega");
         }
     }
+    // ispravka buga
+   
 }
