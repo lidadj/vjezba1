@@ -11,6 +11,7 @@ namespace PIS_vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Linija koju dodaje kolega");
         }
     }
 }
